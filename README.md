@@ -1,5 +1,5 @@
 # Kontroller-mk2
-Second iteration of the legacy Kontroller , but more than just a controller.
+Second iteration of the legacy Kontroller , but more than just a controller./n
 
 
 Yeah , so this is the new version i mentioned . Soooo this one is very very 
@@ -7,7 +7,7 @@ much different then the previous one i'll quickly point out the differences
 in core functionality below:
 
 mk1
-=> uses wifi connectivity
+=> uses wifi connectivity/n
 => works on udp (fire and forget) protocol
 => requires a wifi router between device and controller
 => connection details have to be framed in firmware itself
